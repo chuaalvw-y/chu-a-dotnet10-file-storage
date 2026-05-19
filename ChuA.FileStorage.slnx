@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/ChuA.FileStorage/ChuA.FileStorage.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/ChuA.FileStorage.Tests/ChuA.FileStorage.Tests.csproj" />
+  </Folder>
+</Solution>

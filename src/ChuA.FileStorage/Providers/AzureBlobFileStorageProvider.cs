@@ -1,3 +1,8 @@
+// Copyright (c) 2026 Alvin Wilsen Chan Chua
+// GitHub: chuaalvw-y
+// Licensed under the Alvin Wilsen Chan Chua Proprietary Use-Only License.
+// See LICENSE.txt in the project root for full license information.
+
 using Azure;
 using Azure.Storage.Blobs;
 using Azure.Storage.Blobs.Models;
